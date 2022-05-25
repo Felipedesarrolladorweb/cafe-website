@@ -622,13 +622,14 @@ footer {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    min-width: 90vw;
+    min-width: 59vw;
     display: flex;
   }
   .nav-links a {
     color: #ffffff;
     font-size: 1.6rem;
     font-weight: bold;
+    margin-right: 1rem;
   }
   .nav-links a:hover {
     text-decoration: underline;
